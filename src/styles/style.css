@@ -112,3 +112,7 @@ p {
 #section-text {
     font-size: 29px;
 }
+
+input[type] {
+    background-color: aquamarine;
+}
